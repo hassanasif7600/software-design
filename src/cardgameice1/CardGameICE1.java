@@ -64,7 +64,7 @@ public class CardGameICE1
      } 
         }        
 
-
+System.out.println();
          
     
     }
